@@ -1,16 +1,28 @@
-## Hi there 👋
+<!-- HEADER -->
+<div align="center">
 
-<!--
-**mlko01/mlko01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# mlko01
 
-Here are some ideas to get you started:
+**Junior Cybersecurity Specialist | Bug Bounty Hunter | Developer**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![GitHub followers](https://img.shields.io/github/followers/mlko01?style=social)](https://github.com/mlko01)
+[![GitHub stars](https://img.shields.io/github/stars/mlko01?style=social)](https://github.com/mlko01)
+[![Profile views](https://komarev.com/ghpvc/?username=mlko01&color=blue)](https://github.com/mlko01)
+
+📍 Madrid, Spain
+
+</div>
+
+---
+
+## About Me
+
+<div align="center">
+
+[![NASA VDP Hall of Fame](https://img.shields.io/badge/NASA_VDP-Hall_of_Fame-0B3D91?style=for-the-badge&logo=nasa&logoColor=white)](https://bugcrowd.com/mlko01)
+[![eJPT](https://img.shields.io/badge/eJPT-In_Progress-FF0000?style=for-the-badge&logo=security&logoColor=white)]()
+
+</div>
+
+Junior Cybersecurity Specialist focused on offensive security and bug bounty. NASA VDP Hall of Fame member. Building satvectors: attack surface reconnaissance for the space sector. Currently pursuing eJPT certification. Open to junior cybersecurity positions and security research collaborations.
+
