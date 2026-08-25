@@ -13,7 +13,7 @@ Specializing in offensive security and bug bounty, with interest in cybersecurit
 
 ## Main Stack
 
-**Security:** Parrot OS, Burp Suite, Nmap, Metasploit, OWASP  
+**Security:** Parrot OS, Caido, Nmap, Metasploit, OWASP  
 **Languages:** Go, Python, Java, TypeScript  
 **Infra/DevOps:** Docker, Linux, Git, GitHub Actions
 
