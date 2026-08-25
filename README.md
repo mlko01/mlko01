@@ -23,4 +23,12 @@ Active on [HackerOne](https://hackerone.com/mlko01), [Bugcrowd](https://bugcrowd
 
 ---
 
+### Contact & Links
+
+* 📚 **Security Notes (GitBook):** [mlko01.gitbook.io/mlko01-security-notes](https://mlko01.gitbook.io/mlko01-security-notes)
+* 💼 **LinkedIn:** [linkedin.com/in/manulsf](https://linkedin.com/in/manulsf)
+* 📧 Email: manu.ciberseguridad@gmail.com
+* 🐙 GitHub: [github.com/mlko01](https://github.com/mlko01)
+* 🛡️ TryHackMe: [tryhackme.com/p/mlko01](https://tryhackme.com/p/mlko01)
+
 *Open to opportunities as a Junior Cybersecurity Specialist in Madrid or remote.*
