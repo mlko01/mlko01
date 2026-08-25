@@ -19,7 +19,7 @@ Specializing in offensive security and bug bounty, with interest in cybersecurit
 
 ## Bug Bounty
 
-Active on [HackerOne](https://hackerone.com/mlko01), [Bugcrowd](https://bugcrowd.com/mlko01), and [Intigriti](https://intigriti.com/mlko01).
+Active on [HackerOne](https://hackerone.com/mlko01), [Bugcrowd](https://bugcrowd.com/mlko01).
 
 ---
 
