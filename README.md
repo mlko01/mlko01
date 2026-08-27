@@ -9,7 +9,7 @@
 ## About Me
 
 Member of the **NASA VDP Hall of Fame** and currently preparing for the **eJPT** certification.  
-Specializing in offensive security and bug bounty, with interest in cybersecurity applied to the space sector (project `satvectors`).
+Specializing in offensive security and bug bounty, with interest in cybersecurity applied to the space sector.
 
 ## Main Stack
 
